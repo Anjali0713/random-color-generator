@@ -16,7 +16,7 @@ A simple web app that generates random **RGB** colors when you click a button. I
 
 ## 🎥 Demo
 
-![Random Color Generator Demo](demo.gif)
+![Random Color Generator Demo](demo.mp4)
 
 
 ## 🚀 How to Run
