@@ -14,6 +14,11 @@ A simple web app that generates random **RGB** colors when you click a button. I
 - Generating random RGB values using JavaScript
 - Applying inline styles dynamically
 
+## 🎥 Demo
+
+![Random Color Generator Demo](demo.gif)
+
+
 ## 🚀 How to Run
 
 1. Clone this repository:
